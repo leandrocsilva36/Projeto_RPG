@@ -1,0 +1,14 @@
+C:\Users\BUIA\Documents\teste\RPG\bin\Debug\net6.0\ProjetoRPG.exe
+C:\Users\BUIA\Documents\teste\RPG\bin\Debug\net6.0\ProjetoRPG.deps.json
+C:\Users\BUIA\Documents\teste\RPG\bin\Debug\net6.0\ProjetoRPG.runtimeconfig.json
+C:\Users\BUIA\Documents\teste\RPG\bin\Debug\net6.0\ProjetoRPG.dll
+C:\Users\BUIA\Documents\teste\RPG\bin\Debug\net6.0\ProjetoRPG.pdb
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfoInputs.cache
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfo.cs
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ProjetoRPG.dll
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\refint\ProjetoRPG.dll
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ProjetoRPG.pdb
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ProjetoRPG.genruntimeconfig.cache
+C:\Users\BUIA\Documents\teste\RPG\obj\Debug\net6.0\ref\ProjetoRPG.dll

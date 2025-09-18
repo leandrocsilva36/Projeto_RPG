@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|c:\\users\\buia\\documents\\teste\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|c:\\users\\buia\\documents\\teste\\rpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|solutionrelative:personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|c:\\users\\buia\\documents\\teste\\rpg\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|solutionrelative:monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|c:\\users\\buia\\documents\\teste\\rpg\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|solutionrelative:entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|c:\\users\\buia\\documents\\teste\\rpg\\batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-90AB-CDEF-1234-567890ABCDEF}|ProjetoRPG.csproj|solutionrelative:batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BUIA\\AppData\\Local\\SourceServer\\d73be602461ca5b9ca9b284297c413d33c624e294c099ed2b8230a8ce724c2e9\\Console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Console.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\AppData\\Local\\SourceServer\\d73be602461ca5b9ca9b284297c413d33c624e294c099ed2b8230a8ce724c2e9\\Console.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\d73be602461ca5b9ca9b284297c413d33c624e294c099ed2b8230a8ce724c2e9\\Console.cs",
+              "ToolTip": "C:\\Users\\BUIA\\AppData\\Local\\SourceServer\\d73be602461ca5b9ca9b284297c413d33c624e294c099ed2b8230a8ce724c2e9\\Console.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\d73be602461ca5b9ca9b284297c413d33c624e294c099ed2b8230a8ce724c2e9\\Console.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAAAPQBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:15:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Batalha.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Batalha.cs",
+              "RelativeDocumentMoniker": "Batalha.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Batalha.cs",
+              "RelativeToolTip": "Batalha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:07:54.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entidade.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Entidade.cs",
+              "RelativeDocumentMoniker": "Entidade.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Entidade.cs",
+              "RelativeToolTip": "Entidade.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:07:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monstro.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Monstro.cs",
+              "RelativeDocumentMoniker": "Monstro.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Monstro.cs",
+              "RelativeToolTip": "Monstro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:07:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Personagem.cs",
+              "RelativeDocumentMoniker": "Personagem.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Personagem.cs",
+              "RelativeToolTip": "Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:06:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\RPG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:03:32.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
